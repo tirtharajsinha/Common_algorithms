@@ -1,1 +1,1 @@
-<img src="common_datastructure_TC.jpg">
+<img src="common_datastructure_TC.JPG">
