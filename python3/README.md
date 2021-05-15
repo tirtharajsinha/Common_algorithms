@@ -4,3 +4,4 @@ part of Design and analysis of algorithms.
   <li>lang -> python3</li>
   <li>external library/package used -> itertools, sys</li>
   </ul>
+  by Tirtharaj Sinha
